@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer & aspiring AI Engineer from India 🇮🇳
 - 🌱 Learning Machine Learning & AI in 2025
 - 👯 Open to collaborate on Web, AI, and Open Source projects
 - 🧠 Tech Enthusiast | Problem Solver | Cricket Lover 🏏
-- 📫 Reach me at:developerfardin2.0.com
+- 📫 Reach me at:developerfardin2.0@gamil.com
 
 ---
 
