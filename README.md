@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fardin! (aka Dev-Fardin)
+# 👋 Hello! I'm Md Fardin Alam (Dev-Fardin)
 
 I'm a passionate Full Stack Developer & aspiring AI Engineer from India 🇮🇳
 
