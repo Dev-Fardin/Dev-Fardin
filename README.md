@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer & aspiring AI Engineer from India 🇮🇳
 - 🌱 Learning Machine Learning & AI in 2025
 - 👯 Open to collaborate on Web, AI, and Open Source projects
 - 🧠 Tech Enthusiast | Problem Solver | Cricket Lover 🏏
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at:developerfardin2.0.com
 
 ---
 
@@ -36,7 +36,6 @@ I'm a passionate Full Stack Developer & aspiring AI Engineer from India 🇮🇳
 ---
 
 ## 📫 Connect With Me
-- 🌐 Portfolio: [devfardin.me]()
-- 💼 LinkedIn: [linkedin.com/in/md-fardin-alam-0349621a1]
-- 📧 Email: developerfardin2.0.com
+- 💼 LinkedIn: [md-fardin-alam](https://linkedin.com/in/md-fardin-alam-0349621a1)
+- 📧 Email: developerfardin2.0@gmail.com
 
