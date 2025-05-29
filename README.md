@@ -9,6 +9,7 @@ I'm a passionate Full Stack Developer & aspiring AI Engineer from India 🇮🇳
 👯 Open to collaborate on **Web**, **AI**, and **Open Source** projects  
 🧠 Tech Enthusiast | Problem Solver | Cricket Lover 🏏  
 ❤️ Die-hard **RCB Fan** | Believer of **Ee Sala Cup Namde!** 🔥  
+🏏 Favorite Players: **Virat Kohli** & **Shreyas Iyer**  
 📫 Reach me at: [developerfardin2.0@gmail.com](mailto:developerfardin2.0@gmail.com)
 
 
