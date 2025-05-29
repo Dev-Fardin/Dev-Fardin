@@ -19,7 +19,8 @@ I'm a passionate Full Stack Developer & aspiring AI Engineer from India 🇮🇳
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)  
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakraui&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
@@ -31,8 +32,7 @@ I'm a passionate Full Stack Developer & aspiring AI Engineer from India 🇮🇳
 **Tools & Others:**  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
