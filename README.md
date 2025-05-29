@@ -37,6 +37,6 @@ I'm a passionate Full Stack Developer & aspiring AI Engineer from India 🇮🇳
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: [devfardin.me]()
-- 💼 LinkedIn: [linkedin.com/in/your-profile](linkedin.com/in/md-fardin-alam-0349621a1)
+- 💼 LinkedIn: [linkedin.com/in/md-fardin-alam-0349621a1]
 - 📧 Email: developerfardin2.0.com
 
